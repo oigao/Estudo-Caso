@@ -58,6 +58,9 @@ Código do HTML:
  * JavaScript
  * CSS3
 
+## Licença 
+ * Código aberto
+
 ## Colaboradores 
-* <a href="https://github.com/oigao">Igor Alves</a>
-* <a href="https://github.com/guiirios">Guilherme Rios</a>
+ * <a href="https://github.com/oigao">Igor Alves</a>
+ * <a href="https://github.com/guiirios">Guilherme Rios</a>
